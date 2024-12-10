@@ -1,0 +1,9 @@
+E:\Aplicaciones\WebScraping\Global.CodigoUsuario\bin\Release\Global.CodigoUsuario.dll
+E:\Aplicaciones\WebScraping\Global.CodigoUsuario\bin\Release\Global.CodigoUsuario.pdb
+E:\Aplicaciones\WebScraping\Global.CodigoUsuario\bin\Release\Global.EntidadNegocio.dll
+E:\Aplicaciones\WebScraping\Global.CodigoUsuario\bin\Release\Global.EntidadNegocio.pdb
+E:\Aplicaciones\WebScraping\Global.CodigoUsuario\obj\Release\Global.CodigoUsuario.csproj.AssemblyReference.cache
+E:\Aplicaciones\WebScraping\Global.CodigoUsuario\obj\Release\Global.CodigoUsuario.csproj.CoreCompileInputs.cache
+E:\Aplicaciones\WebScraping\Global.CodigoUsuario\obj\Release\Global.CodigoUsuario.csproj.CopyComplete
+E:\Aplicaciones\WebScraping\Global.CodigoUsuario\obj\Release\Global.CodigoUsuario.dll
+E:\Aplicaciones\WebScraping\Global.CodigoUsuario\obj\Release\Global.CodigoUsuario.pdb

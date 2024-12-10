@@ -1,0 +1,6 @@
+E:\Aplicaciones\WebScraping\Global.EntidadNegocio\bin\Release\Global.EntidadNegocio.dll
+E:\Aplicaciones\WebScraping\Global.EntidadNegocio\bin\Release\Global.EntidadNegocio.pdb
+E:\Aplicaciones\WebScraping\Global.EntidadNegocio\obj\Release\Global.EntidadNegocio.csproj.AssemblyReference.cache
+E:\Aplicaciones\WebScraping\Global.EntidadNegocio\obj\Release\Global.EntidadNegocio.csproj.CoreCompileInputs.cache
+E:\Aplicaciones\WebScraping\Global.EntidadNegocio\obj\Release\Global.EntidadNegocio.dll
+E:\Aplicaciones\WebScraping\Global.EntidadNegocio\obj\Release\Global.EntidadNegocio.pdb

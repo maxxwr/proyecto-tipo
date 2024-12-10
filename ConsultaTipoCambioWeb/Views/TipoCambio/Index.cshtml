@@ -1,0 +1,49 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Consulta de tipo de cambio desde la página SUNAT</title>
+    <link href="~/css/principal.css" rel="stylesheet" />
+</head>
+<body>
+    <div>
+        <div id="divBusqueda">
+            <div id="divMes">
+                <label for="cboMes">Seleccione el mes: </label>
+                <select name="mes" id="cboMes">
+                    <option value="1">Enero</option>
+                    <option value="2">Febrero</option>
+                    <option value="3">Marzo</option>
+                    <option value="4">Abril</option>
+                    <option value="5">Mayo</option>
+                    <option value="6">Junio</option>
+                    <option value="7">Julio</option>
+                    <option value="8">Agosto</option>
+                    <option value="9">Setiembre</option>
+                    <option value="10">Octubre</option>
+                    <option value="11">Noviembre</option>
+                    <option value="12">Diciembre</option>
+                </select>
+            </div>
+            <br>
+            <div id="divAnio">
+                <label for="txtAnio">Digite el año: </label>
+                <input type="text" id="txtAnio" />
+            </div>
+            <br>
+            <div>
+                <input type="button" id="btnConsultarTipoCambio" value="Consultar" />
+            </div>
+        </div>
+        <br>
+        <span id="spnMensaje"></span>
+        <span id="spnResultado"></span>
+    </div>
+<script src="~/js/principal.js"></script>
+</body>
+</html>

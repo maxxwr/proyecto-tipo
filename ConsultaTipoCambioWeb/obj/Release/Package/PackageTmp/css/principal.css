@@ -1,0 +1,39 @@
+﻿
+#divAnio {
+    width: 50%;
+    min-width: 100px;
+}
+
+#txtAnio {
+    width: 25%;
+    max-width: 100px;
+    min-width: 50px;
+}
+
+
+pre {
+    outline: 1px solid #ccc;
+    padding: 5px;
+    margin: 5px;
+}
+
+.string {
+    color: green;
+}
+
+.number {
+    color: darkorange;
+}
+
+.boolean {
+    color: blue;
+}
+
+.null {
+    color: magenta;
+}
+
+.key {
+    color: red;
+}
+
